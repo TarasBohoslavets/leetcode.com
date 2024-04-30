@@ -1,5 +1,11 @@
 package Problem_List.Two_Sum;
 
+/*
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order
+* */
+
 import java.util.HashMap;
 
 public class Two_Sum {
@@ -43,5 +49,11 @@ public class Two_Sum {
         int target3 = 6;
         int[] result3 = solution.twoSum(nums3, target3);
         System.out.println("Example 3: [" + result3[0] + ", " + result3[1] + "]");
+
+        int[] nums4 = {10, 2, 9, 7, 11, 15};
+        int target4 = 13;
+        int[] result4 = solution.twoSum(nums4, target4);
+        System.out.println("Example 4: [" + result4[0] + ", " + result4[1] + "]");
+
     }
 }
