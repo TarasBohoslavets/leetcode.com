@@ -1,4 +1,4 @@
-package Problem_List.Add_Binary;
+package Problem_List.Q67_Add_Binary;
 
 class Solution {
     public static void main ( String[] args ) {
