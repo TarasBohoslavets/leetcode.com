@@ -20,7 +20,7 @@ public class Solution {
         for (int i = start; i <= n; i++) {
             tempList.add(i); // Додаємо поточний елемент до списку
             backtrack(result, tempList, i + 1, n, k); // Рекурсивно додаємо наступні елементи
-            tempList.remove(tempList.size() - 1); // Відкатуємося до попереднього стану
+            tempList.removeLast(); // Відкатуємося до попереднього стану
         }
     }
 
