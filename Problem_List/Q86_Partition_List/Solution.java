@@ -18,7 +18,6 @@ class Solution {
         }
     }
 
-
     public ListNode partition(ListNode head, int x) {
         // Створюємо два тимчасових вузли, які будуть використовуватися для двох списків:
         // beforeHead - для вузлів, значення яких менше за x
