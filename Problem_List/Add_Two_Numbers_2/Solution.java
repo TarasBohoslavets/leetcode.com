@@ -1,4 +1,4 @@
-package Problem_List.Add_Two_Numbers_2;
+package Problem_List.Q2_Add_Two_Numbers;
 
 // Визначення класу ListNode
 class ListNode {
