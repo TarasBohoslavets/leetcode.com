@@ -2,6 +2,7 @@ package Problem_List.Q126_Word_Ladder_II;
 
 import java.util.*;
 
+
 class Solution {
     private List<List<String>> allPaths;  // Список шляхів від beginWord до endWord
     private Map<String, Set<String>> predecessorsMap;  // Карта для відстеження попередників кожного слова
