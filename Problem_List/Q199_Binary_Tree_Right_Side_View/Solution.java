@@ -48,7 +48,6 @@ class Solution {
         return result; // Повертаємо список видимих значень
     }
 
-    // Приклади використання
     public static void main(String[] args) {
         Solution solution = new Solution();
 
