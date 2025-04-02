@@ -6,13 +6,11 @@ class Solution {
     public int[][] reconstructQueue(int[][] people) {
         // 1. Сортуємо: спочатку за висотою `h` (за спаданням), потім за `k` (за зростанням)
         Arrays.sort(people, (a, b) -> (a[0] == b[0]) ? a[1] - b[1] : b[0] - a[0]);
-
         // 2. Додаємо людей у список за `k` як позицією
         List<int[]> result = new LinkedList<>();
         for (int[] person : people) {
             result.add(person[1], person); // Вставка на позицію `k`
         }
-
         // 3. Перетворюємо список у масив
         return result.toArray(new int[people.length][2]);
     }
