@@ -25,7 +25,6 @@ class Solution {
             num = 3 - num; // Перемикаємо між 1 і 2
             head++;
         }
-
         return count;
     }
 
@@ -35,5 +34,4 @@ class Solution {
         int result = solution.magicalString(n);
         System.out.println("Кількість '0' у перших " + n + " символах магічного рядка: " + result);
     }
-
 }
