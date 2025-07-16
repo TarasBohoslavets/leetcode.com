@@ -1,4 +1,4 @@
-package Q521_Longest_Uncommon_Subsequence_I;
+package Problem_List.Q521_Longest_Uncommon_Subsequence_I;
 
 class Solution {
     public int findLUSlength(String a, String b) {

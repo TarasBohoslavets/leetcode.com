@@ -1,4 +1,4 @@
-package Q519_Random_Flip_Matrix;
+package Problem_List.Q519_Random_Flip_Matrix;
 
 import java.util.HashMap;
 import java.util.Map;
