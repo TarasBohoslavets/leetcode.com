@@ -1,4 +1,4 @@
-package Q526_Beautiful_Arrangement;
+package Problem_List.Q526_Beautiful_Arrangement;
 
 class Solution {
     public int countArrangement(int n) {

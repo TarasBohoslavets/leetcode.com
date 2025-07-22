@@ -1,4 +1,4 @@
-package Q528_Random_Pick_with_Weight;
+package Problem_List.Q528_Random_Pick_with_Weight;
 
 import java.util.*;
 
