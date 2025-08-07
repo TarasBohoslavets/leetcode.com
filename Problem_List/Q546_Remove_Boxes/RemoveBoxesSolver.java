@@ -1,4 +1,4 @@
-package Problem_List.Q564_Remove_Boxes;
+package Problem_List.Q546_Remove_Boxes;
 
 import java.util.*;
 
