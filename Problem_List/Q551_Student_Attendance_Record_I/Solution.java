@@ -1,4 +1,4 @@
-package Q551_Student_Attendance_Record_I;
+package Problem_List.Q551_Student_Attendance_Record_I;
 
 public class Solution {
     public boolean checkRecord(String s) {
