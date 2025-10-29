@@ -1,4 +1,4 @@
-package Q630_Course_Schedule_III;
+package Problem_List.Q630_Course_Schedule_III;
 
 import java.util.Arrays;
 import java.util.Collections;
