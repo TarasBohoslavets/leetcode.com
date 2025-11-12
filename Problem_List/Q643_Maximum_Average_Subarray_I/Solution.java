@@ -1,4 +1,4 @@
-package Q643_Maximum_Average_Subarray_I;
+package Problem_List.Q643_Maximum_Average_Subarray_I;
 
 class Solution {
 	public double findMaxAverage(int[] nums, int k) {
