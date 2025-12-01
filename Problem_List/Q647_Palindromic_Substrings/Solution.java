@@ -1,4 +1,4 @@
-package Problem_List.Q674_Palindromic_Substrings;
+package Problem_List.Q647_Palindromic_Substrings;
 
 class Solution {
 	public int countSubstrings(String s) {
