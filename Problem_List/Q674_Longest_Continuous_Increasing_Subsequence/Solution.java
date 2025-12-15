@@ -1,4 +1,4 @@
-package Problem_List.Q764_Longest_Continuous_Increasing_Subsequence;
+package Problem_List.Q674_Longest_Continuous_Increasing_Subsequence;
 
 class Solution {
 	public int findLengthOfLCIS(int[] nums) {
